@@ -1,6 +1,6 @@
 {
-  "name": "history",
-  "version": "1.0.0",
+  "name": "historytakemeout",
+  "version": "1.0.1",
   "description": "Cuenta un historia con tu nombre jaja",
   "main": "index.js",
   "scripts": {

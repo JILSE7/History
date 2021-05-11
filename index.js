@@ -16,3 +16,7 @@ const history = (name) =>{
 
 
 history('said')
+
+exports.module = {
+    history
+}
